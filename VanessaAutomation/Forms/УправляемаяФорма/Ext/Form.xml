@@ -12206,6 +12206,11 @@
 																</Title>
 															</ExtendedTooltip>
 														</CheckBoxField>
+														<InputField name="ПрефиксИмениЭлемента" id="2877">
+															<DataPath>Объект.ПрефиксИмениЭлемента</DataPath>
+															<ContextMenu name="ПрефиксИмениЭлементаКонтекстноеМеню" id="2878"/>
+															<ExtendedTooltip name="ПрефиксИмениЭлементаРасширеннаяПодсказка" id="2879"/>
+														</InputField>
 													</ChildItems>
 												</UsualGroup>
 												<UsualGroup name="ГруппаСистемныеНастройки" id="2663">
