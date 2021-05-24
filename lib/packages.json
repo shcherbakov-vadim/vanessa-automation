@@ -4,9 +4,9 @@
 "repo": "VanessaExt",
 "name": "AddIn.zip",
 "path": "../VanessaAutomation/Templates/WindowCaptureComponent/Ext/Template.bin",
-"url": "https://github.com/lintest/VanessaExt/releases/download/1.2.4.16/AddIn.zip",
-"hash": "AA7FA527873FC177297A4BE012ED21ACA5B1E1FB8B4EA414823C8D255EC7E022",
-"version": "1.2.4.16"
+"url": "https://github.com/lintest/VanessaExt/releases/download/1.3.2.16/AddIn.zip",
+"hash": "ADC58E20B2CCABCD151424011C9FA66588E3E84BE9CCC8E3FD984EC0721F135A",
+"version": "1.3.2.16"
 },
 {
 "owner": "lintest",
@@ -22,8 +22,8 @@
 "repo": "VAEditor",
 "name": "VAEditor.zip",
 "path": "../VanessaAutomation/Templates/VanessaEditor/Ext/Template.bin",
-"url": "https://github.com/Pr-Mex/VAEditor/releases/download/1.2.0.25/VAEditor.zip",
-"hash": "8DBEEF050D0406E516B2C1CDB7C22E1003FB97DC128D4C436AD4A2E942AFE7B5",
-"version": "1.2.0.25"
+"url": "https://github.com/Pr-Mex/VAEditor/releases/download/1.2.0.37/VAEditor.zip",
+"hash": "DE606E6FA2C26EFF7C7396329AC9AAFFD82BC9CF6DE983760EA54A46FAD2510D",
+"version": "1.2.0.37"
 }
 ]
