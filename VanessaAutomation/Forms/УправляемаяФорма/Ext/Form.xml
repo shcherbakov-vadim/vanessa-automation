@@ -12382,11 +12382,6 @@
 																</Title>
 															</ExtendedTooltip>
 														</CheckBoxField>
-														<InputField name="ПрефиксИмениЭлемента" id="2877">
-															<DataPath>Объект.ПрефиксИмениЭлемента</DataPath>
-															<ContextMenu name="ПрефиксИмениЭлементаКонтекстноеМеню" id="2878"/>
-															<ExtendedTooltip name="ПрефиксИмениЭлементаРасширеннаяПодсказка" id="2879"/>
-														</InputField>
 													</ChildItems>
 												</UsualGroup>
 												<UsualGroup name="ГруппаСистемныеНастройки" id="2663">
@@ -13622,6 +13617,11 @@ When working with Vanessa Automation Single it is allowed to leave the field bla
 																	</v8:item>
 																</Title>
 															</ExtendedTooltip>
+														</InputField>
+														<InputField name="ПрефиксИмениЭлемента" id="3029">
+															<DataPath>Объект.ПрефиксИмениЭлемента</DataPath>
+															<ContextMenu name="ПрефиксИмениЭлементаКонтекстноеМеню" id="3030"/>
+															<ExtendedTooltip name="ПрефиксИмениЭлементаРасширеннаяПодсказка" id="3031"/>
 														</InputField>
 														<Button name="СброситьКешИзвестныхStepDefinition" id="1532">
 															<Type>UsualButton</Type>
