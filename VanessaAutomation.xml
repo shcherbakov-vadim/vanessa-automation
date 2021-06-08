@@ -11053,11 +11053,11 @@ Default: ffmpeg</v8:content>
 			</Attribute>
 			<Attribute uuid="3cf60370-bdec-4dd4-885c-cb0287ad7e57">
 				<Properties>
-					<Name>ПрефиксИмениЭлемента</Name>
+					<Name>СпецсимволЗаголовка</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Префикс имени элемента</v8:content>
+							<v8:content>Спецсимвол заголовка</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

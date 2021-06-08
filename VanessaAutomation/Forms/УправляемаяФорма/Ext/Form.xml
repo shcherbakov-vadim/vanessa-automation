@@ -12412,6 +12412,11 @@
 																</Title>
 															</ExtendedTooltip>
 														</CheckBoxField>
+														<InputField name="СпецсимволЗаголовка" id="3037">
+															<DataPath>Объект.СпецсимволЗаголовка</DataPath>
+															<ContextMenu name="СпецсимволЗаголовкаКонтекстноеМеню" id="3038"/>
+															<ExtendedTooltip name="СпецсимволЗаголовкаРасширеннаяПодсказка" id="3039"/>
+														</InputField>
 													</ChildItems>
 												</UsualGroup>
 												<UsualGroup name="ГруппаСистемныеНастройки" id="2663">
@@ -13647,11 +13652,6 @@ When working with Vanessa Automation Single it is allowed to leave the field bla
 																	</v8:item>
 																</Title>
 															</ExtendedTooltip>
-														</InputField>
-														<InputField name="ПрефиксИмениЭлемента" id="3029">
-															<DataPath>Объект.ПрефиксИмениЭлемента</DataPath>
-															<ContextMenu name="ПрефиксИмениЭлементаКонтекстноеМеню" id="3030"/>
-															<ExtendedTooltip name="ПрефиксИмениЭлементаРасширеннаяПодсказка" id="3031"/>
 														</InputField>
 														<Button name="СброситьКешИзвестныхStepDefinition" id="1532">
 															<Type>UsualButton</Type>
@@ -26264,11 +26264,11 @@ SikuliX emulates mouse clicks.</v8:content>
 						</Title>
 						<Type/>
 					</Column>
-					<Column name="ПрефиксИмени" id="10">
+					<Column name="СпецсимволЗаголовка" id="10">
 						<Title>
 							<v8:item>
 								<v8:lang>ru</v8:lang>
-								<v8:content>Префикс имени</v8:content>
+								<v8:content>Спецсимвол заголовка</v8:content>
 							</v8:item>
 						</Title>
 						<Type>
